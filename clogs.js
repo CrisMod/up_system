@@ -42,43 +42,43 @@
 			]
 		},
 		{
-			"version": "11.00",
+			"version": "12.00",
 			"package": "com.whatsapp.w4b",
 			"status": "update_title",
-			"title": "WhatsApp {Business M}",
+			"title": "WhatsApp {Business M} 12",
 			"note": "false",
-			"msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/tip_busimess.html",
-			"download": "https://crismod.ml",
+			"msgtxt": "https://raw.githubusercontent.com/CrisMod/up_system/main/business/tips.html",
+			"download": "https://crismod.com/com.whatsapp.w4b",
 			"update": [
 				{
 					"languaje": "es",
 					"theme": "dark",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/business/dark/changelog-es.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "dark",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/business/dark/changelog-en.html"
 				},
 				{
 					"languaje": "pt-br",
 					"theme": "dark",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-pt.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/business/dark/changelog-pt.html"
 				},
 				{
 					"languaje": "es",
 					"theme": "light",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/business/light/changelog-es.html"
 				},
 				{
 					"languaje": "pt-br",
 					"theme": "light",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-pt.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/business/light/changelog-pt.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "light",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/business/light/changelog-en.html"
 				}
 			]
 		},
