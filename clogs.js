@@ -47,39 +47,39 @@
 			"status": "update_title",
 			"title": "WhatsApp {Business M}",
 			"note": "false",
-			"msgtxt": "https://crismod.com/update_system/wabusiness/tip_busimess.html",
-			"download": "https://crismod.com/com.whatsapp.w4b",
+			"msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/tip_busimess.html",
+			"download": "https://crismod.ml",
 			"update": [
 				{
-                    "languaje": "es",
-                    "theme": "dark",
-                    "changelog": "https://crismod.com/update_system/wabusiness/dark/changelog-en.html"
-                },
-                {
-                    "languaje": "en",
-                    "theme": "dark",
-                    "changelog": "https://crismod.com/update_system/wabusiness/dark/changelog-en.html"
-                },
-                {
-                    "languaje": "pt-br",
-                    "theme": "dark",
-                    "changelog": "https://crismod.com/update_system/wabusiness/dark/changelog-pt.html"
-                },
-                {
-                    "languaje": "es",
-                    "theme": "light",
-                    "changelog": "https://crismod.com/update_system/wabusiness/light/changelog-en.html"
-                },
-                {
-                    "languaje": "pt-br",
-                    "theme": "light",
-                    "changelog": "https://crismod.com/update_system/wabusiness/light/changelog-pt.html"
-                },
-                {
-                    "languaje": "en",
-                    "theme": "light",
-                    "changelog": "https://crismod.com/update_system/wabusiness/light/changelog-en.html"
-                }
+					"languaje": "es",
+					"theme": "dark",
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html"
+				},
+				{
+					"languaje": "en",
+					"theme": "dark",
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html"
+				},
+				{
+					"languaje": "pt-br",
+					"theme": "dark",
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-pt.html"
+				},
+				{
+					"languaje": "es",
+					"theme": "light",
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html"
+				},
+				{
+					"languaje": "pt-br",
+					"theme": "light",
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-pt.html"
+				},
+				{
+					"languaje": "en",
+					"theme": "light",
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html"
+				}
 			]
 		},
                 {	
