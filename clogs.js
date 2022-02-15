@@ -1,43 +1,43 @@
 {
     "packages": [
         {   
-            "version": "18.00",
+            "version": "19.20",
             "package": "com.whatsapp",
             "status": "update_title",
-            "title": "WhatsApp {M Pro} 18.00",
+            "title": "WhatsApp {M Pro} 19.20",
             "note": "false",
             "msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html",
-            "download": "http://fumacrom.com/3CmoN",
+            "download": "https://crismod.com/whatsapp/com.whatsapp",
             "update": [
                 {
                     "languaje": "es",
                     "theme": "dark",
-                    "changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M%20Pro/dark/changelog-es.html"
+                    "changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/MPro/dark/changelog-es.html"
                 },
                 {
                     "languaje": "en",
                     "theme": "dark",
-                    "changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M%20Pro/dark/changelog-en.html"
+                    "changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/MPro/dark/changelog-en.html"
                 },
                 {
                     "languaje": "pt-br",
                     "theme": "dark",
-                    "changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M%20Pro/dark/changelog-pt.html"
+                    "changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/MPro/dark/changelog-pt.html"
                 },
                 {
                     "languaje": "es",
                     "theme": "light",
-                    "changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M%20Pro/light/changelog-es.html"
+                    "changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/MPro/light/changelog-es.html"
                 },
                 {
                     "languaje": "pt-br",
                     "theme": "light",
-                    "changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M%20Pro/light/changelog-pt.html"
+                    "changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/MPro/light/changelog-pt.html"
                 },
                 {
                     "languaje": "en",
                     "theme": "light",
-                    "changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M%20Pro/light/changelog-en.html"
+                    "changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/MPro/light/changelog-en.html"
                 }
             ]
         },
