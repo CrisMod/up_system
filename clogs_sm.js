@@ -1,33 +1,33 @@
 {
 	"packages": [
 		{	
-			"version": "7.00",
+			"version": "7.09",
 			"package": "com.whatsapp",
 			"status": "update_title",
-			"title": "WhatsApp {SM} V7.00",
+			"title": "WhatsApp {SM} V7.09",
 			"note": "false",
 			"msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/dark.html",
-			"download": "http://fumacrom.com/3OOJ4",
+			"download": "https://crismod.com/supermini/com.mwhatsapp",
 			"update": [
 				{
 					"languaje": "es",
 					"theme": "dark",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/changelog-d.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/SM/dark/changelog-es.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "dark",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/changelog-d.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/SM/dark/changelog-es.html"
 				},
 				{
 					"languaje": "es",
 					"theme": "light",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/changelog-l.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/SM/dark/changelog-es.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "light",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/changelog-l.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/SM/dark/changelog-es.html"
 				}
 			]
 		}
