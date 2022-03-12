@@ -22,12 +22,12 @@
 				{
 					"languaje": "es",
 					"theme": "light",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/SM/dark/changelog-es.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/SM/light/changelog-es.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "light",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/SM/dark/changelog-es.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/SM/light/changelog-es.html"
 				}
 			]
 		}
