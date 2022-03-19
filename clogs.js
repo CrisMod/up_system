@@ -22,7 +22,7 @@
                 {
                     "languaje": "pt-br",
                     "theme": "dark",
-                    "changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/MPro/dark/changelog-pt.html"
+                    "changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/MPro/dark/changelog-en.html"
                 },
                 {
                     "languaje": "es",
@@ -32,7 +32,7 @@
                 {
                     "languaje": "pt-br",
                     "theme": "light",
-                    "changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/MPro/light/changelog-pt.html"
+                    "changelog": "https://raw.githubusercontent.com/CrisMod/up_system/main/MPro/light/changelog-en.html"
                 },
                 {
                     "languaje": "en",
@@ -42,10 +42,10 @@
             ]
         },
         {
-            "version": "12.10",
+            "version": "13.00",
             "package": "com.whatsapp.w4b",
             "status": "update_title",
-            "title": "WhatsApp {Business M} 12.10",
+            "title": "WhatsApp {Business M} 13.0",
             "note": "false",
             "msgtxt": "https://raw.githubusercontent.com/CrisMod/up_system/main/business/tips.html",
             "download": "https://crismod.com/com.whatsapp.w4b",
