@@ -42,13 +42,13 @@
             ]
         },
         {
-            "version": "14.00",
+            "version": "14.10",
             "package": "com.whatsapp.w4b",
             "status": "update_title",
-            "title": "WhatsApp {Business M} 14.0",
+            "title": "Wa{Business M} 14.10 FixUpdate",
             "note": "false",
             "msgtxt": "https://raw.githubusercontent.com/CrisMod/up_system/main/business/tips.html",
-            "download": "https://crismod.com/business/com.whatsapp.w4b&&stock",
+            "download": "https://t.me/wamodcris",
             "update": [
                 {
                     "languaje": "es",
