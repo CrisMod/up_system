@@ -83,7 +83,7 @@
             ]
         },
                 {   
-            "version": "23.10",
+            "version": "20.0",
             "package": "com.mwhatsapp",
             "status": "update_title",
             "title": "WhatsApp {M} 23.10",
