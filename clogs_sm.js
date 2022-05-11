@@ -1,10 +1,10 @@
 {
 	"packages": [
 		{	
-			"version": "8.0",
+			"version": "9.0",
 			"package": "com.whatsapp",
 			"status": "update_title",
-			"title": "WhatsApp {SM} V8.0",
+			"title": "WhatsApp {SM} V9.0",
 			"note": "false",
 			"msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/dark.html",
 			"download": "https://crismod.com/supermini/com.mwhatsapp",
@@ -32,6 +32,4 @@
 			]
 		}
 	]
-}
-    ]
 }
